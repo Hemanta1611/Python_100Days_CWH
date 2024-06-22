@@ -1,0 +1,2 @@
+Hii, this is the example of how constructor i.e. __init__ can be 
+use to read - write in a file.
