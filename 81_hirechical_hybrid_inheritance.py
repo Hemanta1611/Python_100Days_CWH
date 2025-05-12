@@ -19,5 +19,5 @@ class B(A):
 class C(A):
     pass
 
-class D(B, C)
+class D(B, C):
     pass
