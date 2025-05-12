@@ -12,7 +12,7 @@ speaker = wc.Dispatch("SAPI.SpVoice")
 #     s = input() 
 #     speaker.Speak(s) 
 
-# list = ["Hemanta", "Love", "a", "Beutiful", "Girl", "&", 'Guess', "her", "Name"]
+# list = ["Hemanta"]
 # list = ["Hemanta", "Madhuri", "Manju", "Prabhat"]
 # say = "Shout out to"
 # for element in list:
@@ -20,5 +20,5 @@ speaker = wc.Dispatch("SAPI.SpVoice")
 #     speaker.Speak(say + element)
 
 while 1:
-    x = "My name is Saurabh Kumar prakash jha , i am a lawyer and gandu.. my hobby is masterbation and watching hantai."
+    x = "My name is "
     speaker.Speak(x)
